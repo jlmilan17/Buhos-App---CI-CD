@@ -1,5 +1,5 @@
 # Buhos-App
-
+# Test - CI
 Buhos-App es una API REST modular diseñada para la gestión, control y reserva de asientos en salas, auditorios o 
 eventos dentro del entorno universitario. El sistema permite administrar de forma eficiente la disponibilidad de 
 espacios físicos, la creación de salas dinámicas y el procesamiento seguro de reservas simultáneas.
